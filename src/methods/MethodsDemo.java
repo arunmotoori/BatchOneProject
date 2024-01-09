@@ -11,7 +11,7 @@ public class MethodsDemo {
 		System.out.println("main method ended");
 		
 	}
-	
+
 	public static void methodOne() {
 		
 		System.out.println("Inside methodOne method - started");
