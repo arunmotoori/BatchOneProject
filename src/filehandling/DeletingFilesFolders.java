@@ -28,7 +28,8 @@ public class DeletingFilesFolders {
 			
 			boolean b = folder2.delete();
 			System.out.println(b);
-			System.out.println("sample folder is deleted");
+			//Empty folder can be deleted.
+			//Files in the folder needs to be deleted first, before deleting the folder.
 			
 		}
 		
